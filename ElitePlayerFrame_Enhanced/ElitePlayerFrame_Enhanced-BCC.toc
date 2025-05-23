@@ -1,0 +1,16 @@
+## Interface: 20504
+## Title: Elite Player Frame (Enhanced)
+## Version: 1.6.10
+## X-Release: release
+## X-Category: Unit Frames
+## Notes: Changes your player frame based on level, expansion, class, and faction.
+## Author: Zeal Vurte
+## X-Credits: Kryndon for the original Elite Player Frame.
+## X-eMail: mail+game+wow+mod+epf@zealvurte.uk
+## X-Website: https://zealvurte.uk
+## X-Aperture: https://zealvurte.uk/aperture.xml
+## X-License: GPLv3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariablesPerCharacter: ElitePlayerFrame_Enhanced_Settings
+ElitePlayerFrame_Enhanced.xml
