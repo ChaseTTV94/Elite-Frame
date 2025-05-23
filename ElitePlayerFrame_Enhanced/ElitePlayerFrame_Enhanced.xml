@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="..\FrameXML\UI.xsd">
+	<Script file="ElitePlayerFrame_Enhanced.lua"/>
+	<Script file="ElitePlayerFrame_Enhanced.enUS.lua"/>
+	<Script file="CustomFrames.lua"/>
+	<Frame name="ElitePlayerFrame_Enhanced" mixin="ElitePlayerFrame_EnhancedMixin">
+		<Scripts>
+			<OnLoad method="Loaded"/>
+			<OnEvent method="Event_Received"/>
+		</Scripts>
+	</Frame>
+</Ui>
